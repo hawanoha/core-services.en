@@ -60,6 +60,14 @@ Guidance and limitations when using Customer Attributes.
      <li>Target Premium: 200</li></ul>
      </td> 
   </tr> 
+  
+    <tr> 
+   <td colname="col1"> <p>Can I use PII for customer attributes?</p> </td> 
+   <td colname="col2"> <p>
+ See <a href="https://docs.adobe.com/content/help/en/core-services/interface/customer-attributes/privacy-mac.html" format="dita" scope="local"> Privacy Considerations</a> for details
+ </p> </td> 
+  </tr> 
+  
   <tr> 
    <td colname="col1"> <p>Is migrating to the Experience Cloud ID Service required? </p> </td> 
    <td colname="col2"> <p>Migration depends on the solutions you use. </p> <p> 
