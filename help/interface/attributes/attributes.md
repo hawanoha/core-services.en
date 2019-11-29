@@ -41,7 +41,7 @@ If you capture enterprise customer data in a customer relationship management (C
 
 ## What Is enterprise customer data? {#section_6F34C29F11414842AA57D2B1248FA3C6}
 
-Enterprise data resides in other systems. It can be complex and mean different things to different people. This data can include information such as memberships, loyalty level, age, gender, products owned, interests, and Lifetime Value. 
+Enterprise data resides in other systems. It can be complex and mean different things to different people. This data can include information such as memberships, loyalty level, age, gender, products owned, interests, and Lifetime Value. (See details around <a href="https://docs.adobe.com/content/help/en/core-services/interface/customer-attributes/privacy-mac.html">use of PII for customer attributes here</a>)
 
 The following image is an example of a data file showing subscriber data for products, including member IDs, entitled products, most-launched products, and so on. 
 
